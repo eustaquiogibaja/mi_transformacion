@@ -2,7 +2,7 @@
 Reglas:
 
 <INICIO>
-1. Ordene en base a la columna in ('nombre','apellido_paterno')
+1. Ordene en base a la columna in ('nombre_1','apellido_paterno', 'producto_mas_caro')
 2. Filtre los DNI que son repetidos-considere el mas reciente
-3. Ubique los nombres en las variables que corresponanda ('nombre_1','nombre_2','nombre_3')
+3. Ubique los nombres en las variables que corresponanda ('nombre_1','nombre_2')
 <FIN>

@@ -1,0 +1,7 @@
+// Archivo de exportación
+Reglas:
+
+<INICIO>
+1. Exporte en excel 
+2. Dejar en ruta C:\Users\gibajae\workspace\mi_transformacion
+<FIN>
